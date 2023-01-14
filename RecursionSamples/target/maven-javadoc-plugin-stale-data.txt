@@ -1,0 +1,52 @@
+/usr/lib/jvm/java-8-openjdk-amd64/jre/../bin/javadoc
+@options
+@packages
+-classpath
+'/home/dimok/.m2/repository/com/intellij/forms_rt/7.0.3/forms_rt-7.0.3.jar:/home/dimok/.m2/repository/asm/asm-commons/3.0/asm-commons-3.0.jar:/home/dimok/.m2/repository/asm/asm-tree/3.0/asm-tree-3.0.jar:/home/dimok/.m2/repository/asm/asm/3.0/asm-3.0.jar:/home/dimok/.m2/repository/com/jgoodies/forms/1.1-preview/forms-1.1-preview.jar:/home/dimok/.m2/repository/jdom/jdom/1.0/jdom-1.0.jar:/home/dimok/.m2/repository/org/aspectj/aspectjrt/1.9.6/aspectjrt-1.9.6.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RecursionSamples 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'RecursionSamples 1.0 API'
+ru.vsu.cs.course1
+ru.vsu.cs.util.call
+ru.vsu.cs.util
+/home/dimok/.m2/repository/com/intellij/forms_rt/7.0.3/forms_rt-7.0.3.jar = 1598685084141
+/home/dimok/.m2/repository/asm/asm-commons/3.0/asm-commons-3.0.jar = 1598685083781
+/home/dimok/.m2/repository/asm/asm-tree/3.0/asm-tree-3.0.jar = 1598685083773
+/home/dimok/.m2/repository/asm/asm/3.0/asm-3.0.jar = 1598685083817
+/home/dimok/.m2/repository/com/jgoodies/forms/1.1-preview/forms-1.1-preview.jar = 1598685083857
+/home/dimok/.m2/repository/jdom/jdom/1.0/jdom-1.0.jar = 1598685084045
+/home/dimok/.m2/repository/org/aspectj/aspectjrt/1.9.6/aspectjrt-1.9.6.jar = 1607017085058
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/src/main/java = 1576067637694
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/overview-frame.html = 1671803889522
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/help-doc.html = 1671803889654
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/constant-values.html = 1671803889550
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/allclasses-noframe.html = 1671803889650
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/overview-tree.html = 1671803889618
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/allclasses-frame.html = 1671803889650
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/script.js = 1671803889658
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/index-all.html = 1671803889646
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/overview-summary.html = 1671803889654
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/index.html = 1671803889650
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/serialized-form.html = 1671803889558
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/stylesheet.css = 1607084218542
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/package-list = 1671803889522
+/home/dimok/z/vsu/Введение в программирование/2022/Лекция 13. Рекурсия/RecursionSamples/target/apidocs/deprecated-list.html = 1671803889646
